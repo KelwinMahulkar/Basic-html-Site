@@ -20,3 +20,5 @@ This pages makes use of discription lists.
 
 An image of the code is given below which shows navigation list, description list etc.
 ![code_DL](https://user-images.githubusercontent.com/69259617/117374157-a3215780-ae9a-11eb-87f9-1a4b9a8b77f2.JPG)
+
+The CSS files were already prepared. Changes done are only in the html file.
