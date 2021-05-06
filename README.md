@@ -17,3 +17,6 @@ The following image is an illustration of the Menu page:
 ![menu](https://user-images.githubusercontent.com/69259617/117356605-ee7b3c00-ae81-11eb-86a3-1b43d036aaee.JPG)
 
 This pages makes use of discription lists.
+
+An image of the code is given below which shows navigation list, description list etc.
+![code_DL](https://user-images.githubusercontent.com/69259617/117374157-a3215780-ae9a-11eb-87f9-1a4b9a8b77f2.JPG)
